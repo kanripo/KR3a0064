@@ -1,0 +1,24 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 黃氏日抄
+#+DATE: 2015-08-24 22:59:31.124205
+#+PROPERTY: ID KR3a0064
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八十一
+<pb:KR3a0064_WYG_081-1a>¶
+欽定四庫全書¶
+　黄氏日抄巻八十一　　　　　宋　黄震　撰¶
+　(闕/)¶
+　¶
+　¶
+　¶
+　¶
+　¶
+<pb:KR3a0064_WYG_081-1b>¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　黄氏日抄卷八十一¶
